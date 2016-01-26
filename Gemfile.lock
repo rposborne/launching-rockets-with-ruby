@@ -1,12 +1,17 @@
+GIT
+  remote: git://github.com/rposborne/kuby.git
+  revision: 7454492811535bc332c736971faf1f7239589fce
+  specs:
+    kuby (0.1.1)
+      excon
+      multi_json
+
 GEM
   remote: https://rubygems.org/
   specs:
     coderay (1.1.0)
     diff-lcs (1.2.5)
     excon (0.45.4)
-    kuby (0.1.1)
-      excon
-      multi_json
     method_source (0.8.2)
     multi_json (1.11.2)
     pry (0.10.3)
@@ -32,7 +37,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  kuby
+  kuby!
   pry
   rspec
 
