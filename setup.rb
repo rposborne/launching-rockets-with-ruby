@@ -1,4 +1,5 @@
 require 'rubygems'
+require 'bundler/setup'
 require 'pry'
 require 'kuby'
 require './hover_throttle'
