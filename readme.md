@@ -34,3 +34,4 @@ If using Cloud9
 
   * Craft files are in a folder called ships, these can be dropped into your save folder
     * Iron Rocket 2w is my fav
+    * If using steam ~/Library/Application Support/Steam/steamapps/common/Kerbal Space Program/saves/__nameofyoursavedgame__/ships/VAB/
