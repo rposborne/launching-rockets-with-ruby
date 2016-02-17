@@ -31,3 +31,6 @@ If using Cloud9
   * [Requires Kerbal Space Program on Instructors Machine](https://kerbalspaceprogram.com/en/)
   * [KSP Mod Telemachus (for api)](https://github.com/richardbunt/Telemachus)
   * If you are using Cloud9, you will need to use ngrok or open a port on your router to allow student access.
+
+  * Craft files are in a folder called ships, these can be dropped into your save folder
+    * Iron Rocket 2w is my fav
