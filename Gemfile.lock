@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rposborne/kuby.git
-  revision: 7454492811535bc332c736971faf1f7239589fce
+  revision: d2e8dcf4ae65943437f854525959686bb6b0bcfc
   specs:
     kuby (0.1.1)
       excon
